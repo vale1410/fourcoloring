@@ -1,0 +1,1 @@
+This is the submitted benchmark for the SAT Competition 2013.
